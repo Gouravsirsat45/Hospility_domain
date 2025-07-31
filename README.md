@@ -120,5 +120,6 @@ Cancellation % = Bookings canceled before check-in
 This project deepened my understanding of how Power BI enables decision-making in the hotel industry. I explored how analytics can drive occupancy, revenue, and operational efficiency through actionable insights.
 
 🖼️ Screenshots / Demos
+(https://github.com/Gouravsirsat45/Hospility_domain/blob/main/Hospitality%20Analysis.jpg)
 
 Alt text: "KPI Cards highlighting RevPAR, Occupancy, and Realisation % across cities"
