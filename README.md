@@ -2,10 +2,10 @@
 🏨 Hospitality Sales Analytics: Power BI Dashboard
 A dynamic and insightful dashboard created to analyze sales and operational KPIs for a leading hotel chain—AtliQ Grands—highlighting revenue patterns, booking trends, and occupancy insights across Indian cities.
 
-🔍  Short Description / Purpose
+🔍  **Short Description / Purpose**
 The Hospitality Sales Dashboard in Power BI offers a visual overview of core hospitality metrics like revenue, occupancy, cancellations, and RevPAR. Built as part of the Codebasics Resume Challenge, this project empowers business leaders to make data-driven decisions by spotting performance gaps and opportunities across properties.
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 This interactive report was built using:
 
 📊 Power BI Desktop – For dashboard development and storytelling
@@ -20,10 +20,10 @@ The dataset captures daily room bookings, cancellations, city-wise performance, 
 
 🌟 Features / Highlights
 
-• Business Problem
+• **Business Problem**
 AtliQ Grands is facing declining revenue and market share due to poor visibility into operational KPIs. There’s a growing need for decision-makers to gain timely insights to optimize pricing, reduce cancellations, and target high-performing regions.
 
-• Goal of the Dashboard
+• **Goal of the Dashboard**
 To build a Power BI dashboard that:
 
 Tracks revenue and booking trends over time
